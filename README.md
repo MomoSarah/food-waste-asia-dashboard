@@ -19,13 +19,13 @@ This project explores the **sources and consequences of food waste** across seve
 
 ## ▶️ Preview
 
-🎥 [Dashboard Demo](./assets/dashboard_preview.webm)
+🎥 [Dashboard Demo](./dashboard_preview.webm)
 
 ## 📂 Project Files
 
 - [`main.py`](./main.py) – Dash app source code
-- [`FoodWaste_Analysis.ipynb`](./notebook/FoodWaste_Analysis.ipynb) – Full analysis notebook
-- [`FoodWaste_Report.pdf`](./docs/FoodWaste_Report.pdf) – Final academic report
+- [`FoodWaste_Analysis.ipynb`](./FoodWaste_Analysis.ipynb) – Full analysis notebook
+- [`FoodWaste_Report.pdf`](./FoodWaste_Report.pdf) – Final academic report
 
 ## 🛠 Tech Stack
 
@@ -39,10 +39,4 @@ This project explores the **sources and consequences of food waste** across seve
 - Deploy dashboard on Streamlit or Heroku
 - Add more granular filters and predictions
 - Integrate with real-time data sources
-
-## 👤 Authors
-
-- Sarah Islam Momo *(Dashboard, EDA, ML, Report)*
-- Md. Asif Siddiqui *(ML modeling, Report sections)*
-- Nazia Nusrat Ima *(Literature & Background)*
 
